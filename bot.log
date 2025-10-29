@@ -1,0 +1,15 @@
+2025-10-29 12:13:47,154 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:14:51,077 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:14:52,780 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:14:53,119 | INFO | Exchange rules loaded and cached for BTCUSDT.
+2025-10-29 12:14:53,120 | INFO | Validation successful for BTCUSDT | QTY=0.04 | PRICE=N/A
+2025-10-29 12:14:53,296 | INFO | Market Order SUCCESS: {'orderId': 7667269159, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa20e08366a5bd233529a2', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.040', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761720292805}
+2025-10-29 12:15:36,301 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:15:37,780 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:15:37,780 | INFO | Validation successful for BTCUSDT | QTY=0.04 | PRICE=113000.1
+2025-10-29 12:15:37,995 | INFO | LIMIT_ORDER_SUCCESS: Symbol=BTCUSDT, Side=BUY, OrderID=7667365908
+2025-10-29 12:15:52,228 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:15:53,739 | INFO | Binance Futures Testnet client connected successfully.
+2025-10-29 12:15:53,739 | INFO | Validation successful for BTCUSDT | QTY=0.04 | PRICE=113000.2
+2025-10-29 12:15:53,922 | INFO | LIMIT_ORDER_SUCCESS: Symbol=BTCUSDT, Side=SELL, OrderID=7667400059
+2025-10-29 12:16:52,043 | INFO | Binance Futures Testnet client connected successfully.
